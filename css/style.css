@@ -97,6 +97,14 @@ main {
   cursor: pointer;
 }
 
+.navbar-ul > li:first-child:hover {
+  border-radius: 6px 0 0 6px;
+}
+
+.navbar-ul > li:last-child:hover {
+  border-radius: 0 6px 6px 0;
+}
+
 .links {
   text-decoration: none;
   color: white;
@@ -145,8 +153,7 @@ main {
 }
 
 .content-wrapper > div > img {
-  width: 356px;
-  height: 200px;
+  width: 100%;
 }
 
 .footer-wrapper {
