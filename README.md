@@ -22,14 +22,7 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Open a web browser
-
-### Visit Repository
-
 ### Download Repository (git@github.com:MFahadUmer/apple.git)
-
-### Run index.html file
-
 
 
 
