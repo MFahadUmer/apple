@@ -84,7 +84,8 @@ body {
 }
 
 .input:focus {
-  background: linear-gradient(
+  background: 
+  linear-gradient(
     to bottom,
     rgb(255, 254, 254) 50%,
     rgb(255, 255, 255) 50%
@@ -96,7 +97,8 @@ body {
 }
 
 .navbar-ul > li:hover {
-  background: linear-gradient(
+  background: 
+  linear-gradient(
     to bottom,
     rgb(92, 87, 87) 50%,
     rgb(54, 51, 51) 50%
@@ -168,14 +170,11 @@ body {
   display: flex;
 }
 
-.footer-ul > li {
-  display: inline;
-  padding: 0 2px;
-}
-
-.footer-links,
-.footer-content-1 > a,
-.footer-content-3 > a {text-decoration: none;color: #29a9d8;font-weight: bold;
+.footer-ul > declaration-colon-newlinent-1 > a,
+.footer-content-3 > a {
+  text-decoration: none;
+  color: #29a9d8;
+  font-weight: bold;
 }
 
 .footer-wrapper > a:hover,
