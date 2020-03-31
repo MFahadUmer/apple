@@ -31,8 +31,7 @@ body {
 }
 
 .navbar {
-  background: 
-  linear-gradient(to bottom, rgb(126, 120, 120) 50%, rgb(73, 71, 71) 50%);
+  background: linear-gradient(to bottom, rgb(126, 120, 120) 50%, rgb(73, 71, 71) 50%);
   height: fit-content;
   border-radius: 6px;
 }
@@ -79,15 +78,13 @@ body {
 
 .input {
   width: 80px;
-  background: 
-  linear-gradient(to bottom, rgb(126, 120, 120) 50%, rgb(73, 71, 71) 50%);
+  background: linear-gradient(to bottom, rgb(126, 120, 120) 50%, rgb(73, 71, 71) 50%);
   border: none;
   border-radius: 15px;
 }
 
 .input:focus {
-  background: 
-  linear-gradient(to bottom, rgb(255, 254, 254) 50%, rgb(255, 255, 255) 50%);
+  background: linear-gradient(to bottom, rgb(255, 254, 254) 50%, rgb(255, 255, 255) 50%);
   border: none;
   width: 135px;
   height: 20px;
@@ -95,8 +92,7 @@ body {
 }
 
 .navbar-ul > li:hover {
-  background: 
-  linear-gradient(to bottom, rgb(92, 87, 87) 50%, rgb(54, 51, 51) 50%);
+  background: linear-gradient(to bottom, rgb(92, 87, 87) 50%, rgb(54, 51, 51) 50%);
   border: none;
   cursor: pointer;
 }
