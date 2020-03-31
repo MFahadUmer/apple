@@ -168,6 +168,12 @@ main {
 .footer-ul {
   list-style: none;
   display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+}
+
+.footer-ul > li {
+  padding: 0.2rem;
 }
 
 .footer-content-1 > a,
@@ -186,13 +192,15 @@ main {
 
 .footer-content-1,
 .footer-content-3 {
-  padding-left: 231px;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 20px;
 }
 
 .footer-content-2 {
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
 .symbol {
-  font-size: 12px;
+  font-size: 10px;
 }
