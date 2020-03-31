@@ -16,10 +16,10 @@ body {
 }
 
 .header-wrapper {
-  height: 660px;
   background: url(../images/header.jpg);
   background-position: bottom;
   background-size: cover;
+  height: 660px;
   max-width: 1440px;
   text-align: center;
 }
@@ -140,9 +140,9 @@ body {
 }
 
 .heading-2 {
-  margin-top: 20px;
   font-size: 33px;
   font-weight: 600;
+  margin-top: 20px;
 }
 
 .heading-3 {
@@ -154,7 +154,7 @@ body {
 .content-wrapper {
   margin-top: 2px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 2px;
 }
 
