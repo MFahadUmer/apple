@@ -31,11 +31,7 @@ body {
 }
 
 .navbar {
-  background: linear-gradient(
-    to bottom,
-    rgb(126, 120, 120) 50%,
-    rgb(73, 71, 71) 50%
-  );
+  background: linear-gradient(to bottom,rgb(126, 120, 120) 50%,rgb(73, 71, 71) 50%);
   height: fit-content;
   border-radius: 6px;
 }
@@ -82,11 +78,7 @@ body {
 
 .input {
   width: 80px;
-  background: linear-gradient(
-    to bottom,
-    rgb(126, 120, 120) 50%,
-    rgb(73, 71, 71) 50%
-  );
+  background: linear-gradient(to bottom,rgb(126, 120, 120) 50%,rgb(73, 71, 71) 50%);
   border: none;
   border-radius: 15px;
 }
@@ -116,8 +108,7 @@ body {
 .links {
   text-decoration: none;
   color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 12px;
   font-weight: 300;
 }
@@ -184,16 +175,12 @@ body {
 
 .footer-links,
 .footer-content-1 > a,
-.footer-content-3 > a {
-  text-decoration: none;
-  color: #29a9d8;
-  font-weight: bold;
+.footer-content-3 > a {text-decoration: none;color: #29a9d8;font-weight: bold;
 }
 
 .footer-wrapper > a:hover,
 .footer-content-1 > a:hover,
-.footer-content-3 > a:hover {
-  text-decoration: underline;
+.footer-content-3 > a:hover {text-decoration: underline;
 }
 
 .footer-content-1,
