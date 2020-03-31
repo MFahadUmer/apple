@@ -160,6 +160,7 @@ body {
   display: flex;
 }
 
+.footer-content-1 > a,
 .footer-content-3 > a,
 .footer-ul > li > a {
   text-decoration: none;
