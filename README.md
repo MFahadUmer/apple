@@ -1,6 +1,6 @@
 # Project Name
 
-> This is a Apple clone page.
+> Project Name Backgrounds and Gradients This is a project based on an archived Apple website. In this project I used all the previous knowledge and I also applied some new knowledge for background images and gradients. This website is responsive but the main design was based on a small-sized archive website; this means the optimal size is approximately 1,026 x 829p, and the scaled Full HD 1920 x 1080p looks like the second image
 
 ![screenshot](./apple-clone.png)
 
@@ -23,7 +23,8 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ### Download Repository (git@github.com:MFahadUmer/apple.git)
-
+### cd apple
+### run the index.html file
 
 
 ## Authors
