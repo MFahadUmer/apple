@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/MFahadUmer/apple/5c722b52cb4d67928862c65fa050987dec190ed5/index.html)
+[Live Demo Link](https://rawcdn.githack.com/MFahadUmer/apple/43bd5137a93cdae5283279fe5eeae2f008a8bc00/index.html)
 
 
 ## Getting Started
@@ -45,7 +45,7 @@ Feel free to check the [issues page](https://github.com/MFahadUmer/apple/issues)
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
+https://rawcdn.githack.com/MFahadUmer/apple/43bd5137a93cdae5283279fe5eeae2f008a8bc00/index.html
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
